@@ -2,4 +2,4 @@
 
 This is the Github repo for my webpage that posts progress made on my Python project.
 
-Web page link: https://colinac.github.io/game-webpage/
+Webpage link: https://colinac.github.io/game-webpage/
