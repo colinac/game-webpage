@@ -37,7 +37,7 @@ td {
     vertical-align: top;
 }
 
-td.date {
+td:first-child {
     white-space: nowrap;
     color: #555;
 }
